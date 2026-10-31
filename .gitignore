@@ -1,0 +1,4 @@
+*.log
+thumbs.db
+.DS_Store
+led-delta/
